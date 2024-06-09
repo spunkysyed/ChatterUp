@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Running the App
 
-1.Server is Running
+1. Start the server
   ```bash
   node server.js
 
