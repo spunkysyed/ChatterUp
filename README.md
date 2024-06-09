@@ -25,13 +25,16 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/your-username/chatterup.git
 2. Navigate to the project directory:
+   ```bash
    cd chatterup
-3. Install the dependencies:
+4. Install the dependencies:
+   ```bash
    npm install
 
 ## Running the App
 
 1.Server is Running
+  ```bash
   node server.js
 
 ## Usage
